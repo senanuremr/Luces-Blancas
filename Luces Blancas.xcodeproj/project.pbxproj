@@ -1,0 +1,664 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		14467A2B2ACC8F3D00238243 /* Luces_BlancasApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14467A2A2ACC8F3D00238243 /* Luces_BlancasApp.swift */; };
+		14467A2D2ACC8F3D00238243 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14467A2C2ACC8F3D00238243 /* ContentView.swift */; };
+		14467A2F2ACC8F3E00238243 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14467A2E2ACC8F3E00238243 /* Assets.xcassets */; };
+		14467A322ACC8F3E00238243 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14467A312ACC8F3E00238243 /* Preview Assets.xcassets */; };
+		14467A3C2ACC8F3F00238243 /* Luces_BlancasTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14467A3B2ACC8F3F00238243 /* Luces_BlancasTests.swift */; };
+		14467A462ACC8F3F00238243 /* Luces_BlancasUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14467A452ACC8F3F00238243 /* Luces_BlancasUITests.swift */; };
+		14467A482ACC8F3F00238243 /* Luces_BlancasUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14467A472ACC8F3F00238243 /* Luces_BlancasUITestsLaunchTests.swift */; };
+		14467A572ACC911F00238243 /* AnaSayfaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14467A562ACC911F00238243 /* AnaSayfaView.swift */; };
+		14467A592ACC939B00238243 /* KolyeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14467A582ACC939B00238243 /* KolyeView.swift */; };
+		14467A5B2ACC944700238243 /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14467A5A2ACC944700238243 /* Product.swift */; };
+		14467A5D2ACC949D00238243 /* ProductCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14467A5C2ACC949D00238243 /* ProductCard.swift */; };
+		14467A5F2ACC950700238243 /* BileklikView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14467A5E2ACC950700238243 /* BileklikView.swift */; };
+		14467A612ACC951B00238243 /* KüpeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14467A602ACC951B00238243 /* KüpeView.swift */; };
+		14467A632ACC952C00238243 /* YüzükView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14467A622ACC952C00238243 /* YüzükView.swift */; };
+		14467A652ACC957300238243 /* Kategoriler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14467A642ACC957300238243 /* Kategoriler.swift */; };
+		14467A672ACC95AB00238243 /* ProductDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14467A662ACC95AB00238243 /* ProductDetail.swift */; };
+		14467A692ACC95CD00238243 /* FavorilerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14467A682ACC95CD00238243 /* FavorilerView.swift */; };
+		14467A6B2ACC95E000238243 /* SearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14467A6A2ACC95E000238243 /* SearchBar.swift */; };
+		14467A6D2ACCAAF700238243 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14467A6C2ACCAAF700238243 /* Launch Screen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		14467A382ACC8F3F00238243 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 14467A1F2ACC8F3D00238243 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 14467A262ACC8F3D00238243;
+			remoteInfo = "Luces Blancas";
+		};
+		14467A422ACC8F3F00238243 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 14467A1F2ACC8F3D00238243 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 14467A262ACC8F3D00238243;
+			remoteInfo = "Luces Blancas";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		14467A272ACC8F3D00238243 /* Luces Blancas.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Luces Blancas.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		14467A2A2ACC8F3D00238243 /* Luces_BlancasApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Luces_BlancasApp.swift; sourceTree = "<group>"; };
+		14467A2C2ACC8F3D00238243 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		14467A2E2ACC8F3E00238243 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		14467A312ACC8F3E00238243 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		14467A372ACC8F3F00238243 /* Luces BlancasTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Luces BlancasTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		14467A3B2ACC8F3F00238243 /* Luces_BlancasTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Luces_BlancasTests.swift; sourceTree = "<group>"; };
+		14467A412ACC8F3F00238243 /* Luces BlancasUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Luces BlancasUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		14467A452ACC8F3F00238243 /* Luces_BlancasUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Luces_BlancasUITests.swift; sourceTree = "<group>"; };
+		14467A472ACC8F3F00238243 /* Luces_BlancasUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Luces_BlancasUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		14467A562ACC911F00238243 /* AnaSayfaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnaSayfaView.swift; sourceTree = "<group>"; };
+		14467A582ACC939B00238243 /* KolyeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KolyeView.swift; sourceTree = "<group>"; };
+		14467A5A2ACC944700238243 /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
+		14467A5C2ACC949D00238243 /* ProductCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductCard.swift; sourceTree = "<group>"; };
+		14467A5E2ACC950700238243 /* BileklikView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BileklikView.swift; sourceTree = "<group>"; };
+		14467A602ACC951B00238243 /* KüpeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "KüpeView.swift"; sourceTree = "<group>"; };
+		14467A622ACC952C00238243 /* YüzükView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "YüzükView.swift"; sourceTree = "<group>"; };
+		14467A642ACC957300238243 /* Kategoriler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kategoriler.swift; sourceTree = "<group>"; };
+		14467A662ACC95AB00238243 /* ProductDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductDetail.swift; sourceTree = "<group>"; };
+		14467A682ACC95CD00238243 /* FavorilerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavorilerView.swift; sourceTree = "<group>"; };
+		14467A6A2ACC95E000238243 /* SearchBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBar.swift; sourceTree = "<group>"; };
+		14467A6C2ACCAAF700238243 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		14467A242ACC8F3D00238243 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		14467A342ACC8F3F00238243 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		14467A3E2ACC8F3F00238243 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		14467A1E2ACC8F3D00238243 = {
+			isa = PBXGroup;
+			children = (
+				14467A6C2ACCAAF700238243 /* Launch Screen.storyboard */,
+				14467A292ACC8F3D00238243 /* Luces Blancas */,
+				14467A3A2ACC8F3F00238243 /* Luces BlancasTests */,
+				14467A442ACC8F3F00238243 /* Luces BlancasUITests */,
+				14467A282ACC8F3D00238243 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		14467A282ACC8F3D00238243 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				14467A272ACC8F3D00238243 /* Luces Blancas.app */,
+				14467A372ACC8F3F00238243 /* Luces BlancasTests.xctest */,
+				14467A412ACC8F3F00238243 /* Luces BlancasUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		14467A292ACC8F3D00238243 /* Luces Blancas */ = {
+			isa = PBXGroup;
+			children = (
+				14467A2A2ACC8F3D00238243 /* Luces_BlancasApp.swift */,
+				14467A2C2ACC8F3D00238243 /* ContentView.swift */,
+				14467A2E2ACC8F3E00238243 /* Assets.xcassets */,
+				14467A6F2AE5A7D300238243 /* UrunDetay */,
+				14467A702AE5A81700238243 /* AnaSayfa */,
+				14467A712AE5A85600238243 /* Favoriler */,
+				14467A6E2AE5A72C00238243 /* Kategoriler */,
+				14467A302ACC8F3E00238243 /* Preview Content */,
+			);
+			path = "Luces Blancas";
+			sourceTree = "<group>";
+		};
+		14467A302ACC8F3E00238243 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				14467A312ACC8F3E00238243 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		14467A3A2ACC8F3F00238243 /* Luces BlancasTests */ = {
+			isa = PBXGroup;
+			children = (
+				14467A3B2ACC8F3F00238243 /* Luces_BlancasTests.swift */,
+			);
+			path = "Luces BlancasTests";
+			sourceTree = "<group>";
+		};
+		14467A442ACC8F3F00238243 /* Luces BlancasUITests */ = {
+			isa = PBXGroup;
+			children = (
+				14467A452ACC8F3F00238243 /* Luces_BlancasUITests.swift */,
+				14467A472ACC8F3F00238243 /* Luces_BlancasUITestsLaunchTests.swift */,
+			);
+			path = "Luces BlancasUITests";
+			sourceTree = "<group>";
+		};
+		14467A6E2AE5A72C00238243 /* Kategoriler */ = {
+			isa = PBXGroup;
+			children = (
+				14467A642ACC957300238243 /* Kategoriler.swift */,
+				14467A582ACC939B00238243 /* KolyeView.swift */,
+				14467A622ACC952C00238243 /* YüzükView.swift */,
+				14467A602ACC951B00238243 /* KüpeView.swift */,
+				14467A5E2ACC950700238243 /* BileklikView.swift */,
+			);
+			path = Kategoriler;
+			sourceTree = "<group>";
+		};
+		14467A6F2AE5A7D300238243 /* UrunDetay */ = {
+			isa = PBXGroup;
+			children = (
+				14467A5C2ACC949D00238243 /* ProductCard.swift */,
+				14467A6A2ACC95E000238243 /* SearchBar.swift */,
+				14467A662ACC95AB00238243 /* ProductDetail.swift */,
+				14467A5A2ACC944700238243 /* Product.swift */,
+			);
+			path = UrunDetay;
+			sourceTree = "<group>";
+		};
+		14467A702AE5A81700238243 /* AnaSayfa */ = {
+			isa = PBXGroup;
+			children = (
+				14467A562ACC911F00238243 /* AnaSayfaView.swift */,
+			);
+			path = AnaSayfa;
+			sourceTree = "<group>";
+		};
+		14467A712AE5A85600238243 /* Favoriler */ = {
+			isa = PBXGroup;
+			children = (
+				14467A682ACC95CD00238243 /* FavorilerView.swift */,
+			);
+			path = Favoriler;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		14467A262ACC8F3D00238243 /* Luces Blancas */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 14467A4B2ACC8F3F00238243 /* Build configuration list for PBXNativeTarget "Luces Blancas" */;
+			buildPhases = (
+				14467A232ACC8F3D00238243 /* Sources */,
+				14467A242ACC8F3D00238243 /* Frameworks */,
+				14467A252ACC8F3D00238243 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Luces Blancas";
+			productName = "Luces Blancas";
+			productReference = 14467A272ACC8F3D00238243 /* Luces Blancas.app */;
+			productType = "com.apple.product-type.application";
+		};
+		14467A362ACC8F3F00238243 /* Luces BlancasTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 14467A4E2ACC8F3F00238243 /* Build configuration list for PBXNativeTarget "Luces BlancasTests" */;
+			buildPhases = (
+				14467A332ACC8F3F00238243 /* Sources */,
+				14467A342ACC8F3F00238243 /* Frameworks */,
+				14467A352ACC8F3F00238243 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				14467A392ACC8F3F00238243 /* PBXTargetDependency */,
+			);
+			name = "Luces BlancasTests";
+			productName = "Luces BlancasTests";
+			productReference = 14467A372ACC8F3F00238243 /* Luces BlancasTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		14467A402ACC8F3F00238243 /* Luces BlancasUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 14467A512ACC8F3F00238243 /* Build configuration list for PBXNativeTarget "Luces BlancasUITests" */;
+			buildPhases = (
+				14467A3D2ACC8F3F00238243 /* Sources */,
+				14467A3E2ACC8F3F00238243 /* Frameworks */,
+				14467A3F2ACC8F3F00238243 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				14467A432ACC8F3F00238243 /* PBXTargetDependency */,
+			);
+			name = "Luces BlancasUITests";
+			productName = "Luces BlancasUITests";
+			productReference = 14467A412ACC8F3F00238243 /* Luces BlancasUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		14467A1F2ACC8F3D00238243 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1430;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					14467A262ACC8F3D00238243 = {
+						CreatedOnToolsVersion = 14.3.1;
+					};
+					14467A362ACC8F3F00238243 = {
+						CreatedOnToolsVersion = 14.3.1;
+						TestTargetID = 14467A262ACC8F3D00238243;
+					};
+					14467A402ACC8F3F00238243 = {
+						CreatedOnToolsVersion = 14.3.1;
+						TestTargetID = 14467A262ACC8F3D00238243;
+					};
+				};
+			};
+			buildConfigurationList = 14467A222ACC8F3D00238243 /* Build configuration list for PBXProject "Luces Blancas" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 14467A1E2ACC8F3D00238243;
+			productRefGroup = 14467A282ACC8F3D00238243 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				14467A262ACC8F3D00238243 /* Luces Blancas */,
+				14467A362ACC8F3F00238243 /* Luces BlancasTests */,
+				14467A402ACC8F3F00238243 /* Luces BlancasUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		14467A252ACC8F3D00238243 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				14467A6D2ACCAAF700238243 /* Launch Screen.storyboard in Resources */,
+				14467A322ACC8F3E00238243 /* Preview Assets.xcassets in Resources */,
+				14467A2F2ACC8F3E00238243 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		14467A352ACC8F3F00238243 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		14467A3F2ACC8F3F00238243 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		14467A232ACC8F3D00238243 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				14467A5F2ACC950700238243 /* BileklikView.swift in Sources */,
+				14467A652ACC957300238243 /* Kategoriler.swift in Sources */,
+				14467A572ACC911F00238243 /* AnaSayfaView.swift in Sources */,
+				14467A692ACC95CD00238243 /* FavorilerView.swift in Sources */,
+				14467A612ACC951B00238243 /* KüpeView.swift in Sources */,
+				14467A2D2ACC8F3D00238243 /* ContentView.swift in Sources */,
+				14467A5B2ACC944700238243 /* Product.swift in Sources */,
+				14467A632ACC952C00238243 /* YüzükView.swift in Sources */,
+				14467A6B2ACC95E000238243 /* SearchBar.swift in Sources */,
+				14467A592ACC939B00238243 /* KolyeView.swift in Sources */,
+				14467A2B2ACC8F3D00238243 /* Luces_BlancasApp.swift in Sources */,
+				14467A672ACC95AB00238243 /* ProductDetail.swift in Sources */,
+				14467A5D2ACC949D00238243 /* ProductCard.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		14467A332ACC8F3F00238243 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				14467A3C2ACC8F3F00238243 /* Luces_BlancasTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		14467A3D2ACC8F3F00238243 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				14467A482ACC8F3F00238243 /* Luces_BlancasUITestsLaunchTests.swift in Sources */,
+				14467A462ACC8F3F00238243 /* Luces_BlancasUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		14467A392ACC8F3F00238243 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 14467A262ACC8F3D00238243 /* Luces Blancas */;
+			targetProxy = 14467A382ACC8F3F00238243 /* PBXContainerItemProxy */;
+		};
+		14467A432ACC8F3F00238243 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 14467A262ACC8F3D00238243 /* Luces Blancas */;
+			targetProxy = 14467A422ACC8F3F00238243 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		14467A492ACC8F3F00238243 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		14467A4A2ACC8F3F00238243 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		14467A4C2ACC8F3F00238243 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Luces Blancas/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen.storyboard";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "senanuremr.Luces-Blancas";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		14467A4D2ACC8F3F00238243 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Luces Blancas/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen.storyboard";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "senanuremr.Luces-Blancas";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		14467A4F2ACC8F3F00238243 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "senanuremr.Luces-BlancasTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Luces Blancas.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Luces Blancas";
+			};
+			name = Debug;
+		};
+		14467A502ACC8F3F00238243 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "senanuremr.Luces-BlancasTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Luces Blancas.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Luces Blancas";
+			};
+			name = Release;
+		};
+		14467A522ACC8F3F00238243 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "senanuremr.Luces-BlancasUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Luces Blancas";
+			};
+			name = Debug;
+		};
+		14467A532ACC8F3F00238243 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "senanuremr.Luces-BlancasUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Luces Blancas";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		14467A222ACC8F3D00238243 /* Build configuration list for PBXProject "Luces Blancas" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				14467A492ACC8F3F00238243 /* Debug */,
+				14467A4A2ACC8F3F00238243 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		14467A4B2ACC8F3F00238243 /* Build configuration list for PBXNativeTarget "Luces Blancas" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				14467A4C2ACC8F3F00238243 /* Debug */,
+				14467A4D2ACC8F3F00238243 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		14467A4E2ACC8F3F00238243 /* Build configuration list for PBXNativeTarget "Luces BlancasTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				14467A4F2ACC8F3F00238243 /* Debug */,
+				14467A502ACC8F3F00238243 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		14467A512ACC8F3F00238243 /* Build configuration list for PBXNativeTarget "Luces BlancasUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				14467A522ACC8F3F00238243 /* Debug */,
+				14467A532ACC8F3F00238243 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 14467A1F2ACC8F3D00238243 /* Project object */;
+}
