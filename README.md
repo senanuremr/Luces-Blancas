@@ -1,7 +1,4 @@
-![Simulator Screenshot - iPhone 14 Pro - 2023-10-31 at 22 51 42](https://github.com/senanuremr/Luces-Blancas/assets/102187756/985a98ca-44d7-408e-ba29-b1784333c9f3)
-![Simulator Screenshot - iPhone 14 Pro - 2023-10-30 at 14 47 09](https://github.com/senanuremr/Luces-Blancas/assets/102187756/6fd54596-ac79-4e1f-be6e-dd2d76d2ec54)
-![Uploading Simulator Screenshot - iPhone 14 Pro - 2023-10-30 at 14.46.55.png…]()
-![Simulator Screenshot - iPhone 14 Pro - 2023-10-30 at 14 46 43](https://github.com/senanuremr/Luces-Blancas/assets/102187756/fade1746-adf4-43e4-ae22-f447888f1bf0)
-![Simulator Screenshot - iPhone 14 Pro - 2023-10-30 at 14 46 35](https://github.com/senanuremr/Luces-Blancas/assets/102187756/b0f13e36-cb05-450b-a5b2-ed9cdbb2dfce)
-![Simulator Screenshot - iPhone 14 Pro - 2023-10-30 at 14 46 31](https://github.com/senanuremr/Luces-Blancas/assets/102187756/15badd1f-626e-4f59-b6c4-f6ddd913701a)
-![Simulator Screenshot - iPhone 14 Pro - 2023-10-30 at 14 46 27](https://github.com/senanuremr/Luces-Blancas/assets/102187756/3664f196-71d3-4033-82c4-540d15761110)
+| Resim 1                                      | Resim 2                                      | Resim 3                                      |
+| -------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
+| ![Alternatif Metin 1](resim_url_1)          | ![Alternatif Metin 2](resim_url_2)          | ![Alternatif Metin 3](resim_url_3)          |
+
