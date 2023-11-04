@@ -1,10 +1,6 @@
-# Proje Adı
 
-Proje Açıklaması buraya yazılır.
 
-## Ekran Görüntüleri
-
-![Resim 1](IMG_6628.jpg) ![Resim 2](resim2.jpg) ![Resim 3](resim3.jpg)
+![Resim 1](![Simulator Screenshot - iPhone 14 Pro - 2023-10-30 at 14 46 27](https://github.com/senanuremr/Luces-Blancas/assets/102187756/c0b91a2d-33ad-444a-a18d-0fa390a3e86b)) ![Resim 2](resim2.jpg) ![Resim 3](resim3.jpg)
 
 ## Ekran Görüntüleri - Detay
 
@@ -14,15 +10,6 @@ Proje Açıklaması buraya yazılır.
 
 Burada projenizin genel bilgilerini ve amaçlarını yazabilirsiniz. Projeyle ilgili önemli detaylar ve kullanıcıların neler bekleyebileceği hakkında bilgi vermek için bu bölümü kullanabilirsiniz.
 
-## Başlangıç
 
-Projenin yerel ortamda nasıl çalıştırılacağı, bağımlılıkların nasıl kurulacağı veya projenin nasıl dağıtılacağı hakkında bilgiler verilebilir.
 
-## Katkıda Bulunma
-
-Eğer projeye katkıda bulunmak istiyorsanız, katkıda bulunma rehberini ve geliştirme sürecine katkıda bulunmak için adımları açıklayan talimatları burada sunabilirsiniz.
-
-## Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır. Detaylı bilgi için [LICENSE](LICENSE) dosyasına göz atabilirsiniz.
 
