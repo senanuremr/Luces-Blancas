@@ -4,7 +4,7 @@ Proje Açıklaması buraya yazılır.
 
 ## Ekran Görüntüleri
 
-![Resim 1](resim1.jpg) ![Resim 2](resim2.jpg) ![Resim 3](resim3.jpg)
+![Resim 1](IMG_6628.jpg) ![Resim 2](resim2.jpg) ![Resim 3](resim3.jpg)
 
 ## Ekran Görüntüleri - Detay
 
