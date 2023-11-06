@@ -1,6 +1,7 @@
 
 
-![Resim 1](![Simulator Screenshot - iPhone 14 Pro - 2023-10-30 at 14 46 27](https://github.com/senanuremr/Luces-Blancas/assets/102187756/c0b91a2d-33ad-444a-a18d-0fa390a3e86b)) ![Resim 2](resim2.jpg) ![Resim 3](resim3.jpg)
+![Resim 1](![md 1](https://github.com/senanuremr/Luces-Blancas/assets/102187756/5240e470-be86-4fe6-bdd6-cc1cda26c69e)
+) ![Resim 2](resim2.jpg) ![Resim 3](resim3.jpg)
 
 ## Ekran Görüntüleri - Detay
 
