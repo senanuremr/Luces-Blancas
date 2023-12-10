@@ -1,2 +1,2 @@
-![Uploading WhatsApp Image 2023-12-04 at 23.51.38.jpeg…]()
 
+![Adsız tasarım](https://github.com/senanuremr/Luces-Blancas/assets/102187756/e5e01e5c-8f82-448a-95b5-e185aacb9f42)
